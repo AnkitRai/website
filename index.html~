@@ -1,1 +1,13 @@
-Welcome to my website
+<!DOCTYPE html>
+<html>
+  <head>
+<title> Ankit Rai </title>
+    </head>
+    <body>
+      <h1>Welcome to my website!</h1>
+      <p>My name is Ankit.</p>
+      <img src ='/Users/ankitrai/repos/website/pic.jpg'>
+    </body>
+</html>
+
+
